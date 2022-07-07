@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: thesis-uestc.bst
+if is an illegal style-file command---line 396 of file thesis-uestc.bst
+ :     } if
+ :         $
+Database file #1: reference.bib
+Repeated entry---line 820 of file reference.bib
+ : @inproceedings{DBLP:conf/interspeech/MikolovKBCK10
+ :                                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1401 of file reference.bib
+ : @inproceedings{DBLP:conf/ijcai/ChengYLK13
+ :                                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1419 of file reference.bib
+ : @inproceedings{DBLP:conf/aaai/LiuWWT16
+ :                                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1570 of file reference.bib
+ : @inproceedings{DBLP:conf/kdd/LianZXSCR14
+ :                                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2987 of file reference.bib
+ : @inproceedings{DBLP:conf/emnlp/ChoMGBBSB14
+ :                                           ,
+I'm skipping whatever remains of this entry
+You've used 80 entries,
+            954 wiz_defined-function locations,
+            874 strings with 26791 characters,
+and the built_in function-call counts, 23665 in all, are:
+= -- 1700
+> -- 976
+< -- 0
++ -- 597
+- -- 264
+* -- 1909
+:= -- 3353
+add.period$ -- 0
+call.type$ -- 80
+change.case$ -- 80
+chr.to.int$ -- 0
+cite$ -- 80
+duplicate$ -- 1151
+empty$ -- 1622
+format.name$ -- 341
+if$ -- 4534
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 580
+newline$ -- 82
+num.names$ -- 80
+pop$ -- 547
+preamble$ -- 0
+purify$ -- 0
+quote$ -- 0
+skip$ -- 322
+stack$ -- 0
+substring$ -- 3539
+swap$ -- 520
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 396
+width$ -- 0
+write$ -- 912
+(There were 6 error messages)

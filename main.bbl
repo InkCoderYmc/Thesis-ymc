@@ -1,0 +1,299 @@
+\begin{thebibliography}{\bstlabelmark}
+\interlinepenalty=10000
+\setlength{\itemsep}{0bp}\setlength{\parskip}{0pt}\small
+\bibitem{DBLP:journals/computers/SejdiuIA21} Sejdiu B, Ismaili F, Ahmedi L.
+  Iotsas: An integrated system for real-time semantic annotation and
+  interpretation of iot sensor stream data[J]. Computers, 2021, 10(10): 127.
+\bibitem{DBLP:journals/adhoc/SharmaJGC21} Sharma P, Jain S, Gupta S, et~al.
+  Role of machine learning and deep learning in securing 5g-driven industrial
+  iot applications[J]. Ad Hoc Networks, 2021, 123: 102685.
+\bibitem{DBLP:journals/complexity/ChaoHFWCLY21} Chao F, He Z, Feng R, et~al.
+  Predictive trajectory-based mobile data gathering scheme for wireless sensor
+  networks[J]. Complexity, 2021, 2021: 3941074:1-3941074:17.
+\bibitem{DBLP:journals/pr/0007PPF21} Rossi L, Paolanti M, Pierdicca R, et~al.
+  Human trajectory prediction and generation using {LSTM} models and gans[J].
+  Pattern Recognition, 2021, 120: 108136.
+\bibitem{DBLP:conf/gistam/OsaragiH20} Osaragi T, Hayasaka R. Prediction of
+  spatiotemporal distributions of transient urban populations with statistics
+  gathered by cell phones[C]. Proceedings of the 6th International Conference
+  on Geographical Information Systems Theory, Applications and Management,
+  {GISTAM} 2020, Prague, Czech Republic, 2020: 33-44.
+\bibitem{DBLP:journals/tsas/WangCCPH20} Wang S, Cao J, Chen H, et~al.
+  Seqst-gan: Seq2seq generative adversarial nets for multi-step urban crowd
+  flow prediction[J]. {ACM} Transactions on Spatial Algorithms and Systems,
+  2020, 6(4): 22:1-22:24.
+\bibitem{DBLP:journals/eswa/LiuQ21} Liu X, Qin X. A neighborhood information
+  utilization fireworks algorithm and its application to traffic flow
+  prediction[J]. Expert Systems with Applications, 2021, 183: 115189.
+\bibitem{DBLP:books/sp/21/PretoMAMM21} Preto A J, Matos{-}Filipe P, de~Almeida
+  J G, et~al. Predicting hot spots using a deep neural network approach[M].
+  Springer, 2021: 267-288\bibitem{DBLP:conf/cec/LiuW21} Liu Z, Wang H. Improved
+  population prediction strategy for dynamic multi-objective optimization
+  algorithms using transfer learning[C]. {IEEE} Congress on Evolutionary
+  Computation, {CEC} 2021, Krak{\'{o}}w, Poland, 2021: 103-110.
+\bibitem{DBLP:journals/ijon/AlassafiJA22} Alassafi M O, Jarrah M, Alotaibi R.
+  Time series predicting of {COVID-19} based on deep learning[J].
+  Neurocomputing, 2022, 468: 335-344.
+\bibitem{DBLP:journals/bigdatama/SreenivasuluS20} Sreenivasulu M, Sridevi M.
+  Comparative study of statistical features to detect the target event during
+  disaster[J]. Big Data Mining and Analytics, 2020, 3(2): 121-130.
+\bibitem{DBLP:journals/wc/WuISW21} Wu Z, Ismail M, Serpedin E, et~al.
+  Artificial intelligence for smart resource management in multi-user mobile
+  heterogeneous rf-light networks[J]. {IEEE} Wireless Communications, 2021,
+  28(4): 152-158.
+\bibitem{DBLP:journals/jmlr/LuMT21} Lu F, Maggioni M, Tang S. Learning
+  interaction kernels in heterogeneous systems of agents from multiple
+  trajectories[J]. Journal of Machine Learning Research, 2021, 22: 32:1-32:67.
+\bibitem{DBLP:conf/kdd/LianWG0C20} Lian D, Wu Y, Ge Y, et~al. Geography-aware
+  sequential location recommendation[C]. {KDD} '20: The 26th {ACM} {SIGKDD}
+  Conference on Knowledge Discovery and Data Mining, Virtual Event, CA, USA,
+  2020: 2009-2019.
+\bibitem{DBLP:conf/kdd/YuanZXS11} Yuan J, Zheng Y, Xie X, et~al. Driving with
+  knowledge from the physical world[C]. Proceedings of the 17th {ACM} {SIGKDD}
+  International Conference on Knowledge Discovery and Data Mining, San Diego,
+  CA, USA, 2011: 316-324.
+\bibitem{DBLP:conf/kdd/LianZXSCR14} Lian D, Zhao C, Xie X, et~al. Geomf: joint
+  geographical modeling and matrix factorization for point-of-interest
+  recommendation[C]. The 20th {ACM} {SIGKDD} International Conference on
+  Knowledge Discovery and Data Mining, {KDD} '14, New York, NY, {USA}, 2014:
+  831-840.
+\bibitem{DBLP:conf/sigir/LiCLPK15} Li X, Cong G, Li X, et~al. Rank-geofm: {A}
+  ranking based geographical factorization method for point of interest
+  recommendation[C]. Proceedings of the 38th International {ACM} {SIGIR}
+  Conference on Research and Development in Information Retrieval, Santiago,
+  Chile, 2015: 433-442.
+\bibitem{DBLP:conf/ijcai/ChengYLK13} Cheng C, Yang H, Lyu M R, et~al. Where you
+  like to go next: Successive point-of-interest recommendation[C]. {IJCAI}
+  2013, Proceedings of the 23rd International Joint Conference on Artificial
+  Intelligence, Beijing, China, 2013: 2605-2611.
+\bibitem{DBLP:conf/aaai/LiuWWT16} Liu Q, Wu S, Wang L, et~al. Predicting the
+  next location: {A} recurrent model with spatial and temporal contexts[C].
+  Proceedings of the Thirtieth {AAAI} Conference on Artificial Intelligence,
+  Phoenix, Arizona, {USA}, 2016: 194-200.
+\bibitem{刘大有2013时空数据挖掘研究进展} 刘大有, 陈慧灵,
+  齐红, 等. 时空数据挖掘研究进展[J]. 计算机研究与发展,
+  2013, 50(2): 225.
+\bibitem{DBLP:conf/ijcai/WuLJC19} Wu Y, Lian D, Jin S, et~al. Graph
+  convolutional networks on user mobility heterogeneous graphs for social
+  relationship inference[C]. Proceedings of the Twenty-Eighth International
+  Joint Conference on Artificial Intelligence, {IJCAI} 2019, Macao, China,
+  2019: 3898-3904.
+\bibitem{DBLP:journals/eaai/JinSLZ22} Jin K, Sun S, Li H, et~al. A novel
+  multi-modal analysis model with baidu search index for subway passenger flow
+  forecasting[J]. Engineering Applications of Artificial Intelligence, 2022,
+  107: 104518.
+\bibitem{DBLP:conf/aaai/IwataS19a} Iwata T, Shimizu H. Neural collective
+  graphical models for estimating spatio-temporal population flow from
+  aggregated data[C]. The Thirty-Third {AAAI} Conference on Artificial
+  Intelligence, {AAAI} 2019, Honolulu, Hawaii, USA, 2019: 3935-3942.
+\bibitem{verma2017pam} Verma N, Baliyan N. Pam clustering based taxi hotspot
+  detection for informed driving[C]. 2017 8th International Conference on
+  Computing, Communication and Networking Technologies (ICCCNT), 2017: 1-7.
+\bibitem{DBLP:journals/tits/NiHG17} Ni M, He Q, Gao J. Forecasting the subway
+  passenger flow under event occurrences with social media[J]. {IEEE}
+  Transactions on Intelligent Transportation Systems, 2017, 18(6): 1623-1632.
+\bibitem{DBLP:journals/vc/KumarBRLP17} Kumar D, Bezdek J C, Rajasegarar S,
+  et~al. A visual-numeric approach to clustering and anomaly detection for
+  trajectory data[J]. The Visual Computer, 2017, 33(3): 265-281.
+\bibitem{DBLP:conf/sigir/YeYLL11} Ye M, Yin P, Lee W, et~al. Exploiting
+  geographical influence for collaborative point-of-interest recommendation[C].
+  Proceeding of the 34th International {ACM} {SIGIR} Conference on Research and
+  Development in Information Retrieval, {SIGIR} 2011, Beijing, China, 2011:
+  325-334.
+\bibitem{DBLP:journals/air/HamdiSEMRS22} Hamdi A, Shaban K B, Erradi A, et~al.
+  Spatiotemporal data mining: a survey on challenges and open problems[J].
+  Artificial Intelligence Review, 2022, 55(2): 1441-1488.
+\bibitem{DBLP:conf/aaai/GuoSZT20} Guo Q, Sun Z, Zhang J, et~al. An attentional
+  recurrent neural network for personalized next location recommendation[C].
+  The Thirty-Fourth {AAAI} Conference on Artificial Intelligence, {AAAI} 2020,
+  New York, NY, USA, 2020: 83-90.
+\bibitem{DBLP:conf/eurocast/Moreno-DiazVMI03} Moreno{-}D{\'{\i}}az A, Virto M
+  A, Mart{\'{\i}}n J, et~al. Approximate solutions to semi markov decision
+  processes through markov chain montecarlo methods[C]. Computer Aided Systems
+  Theory - {EUROCAST} 2003, 9th International Workshop on Computer Aided
+  Systems Theory, Las Palmas de Gran Canaria, Spain, 2003: 151-162.
+\bibitem{DBLP:journals/jair/BegleiterEY04} Begleiter R, El{-}Yaniv R, Yona G.
+  On prediction using variable order markov models[J]. Journal of Artificial
+  Intelligence Research, 2004, 22: 385-421.
+\bibitem{DBLP:conf/www/RendleFS10} Rendle S, Freudenthaler C, Schmidt{-}Thieme
+  L. Factorizing personalized markov chains for next-basket recommendation[C].
+  Proceedings of the 19th International Conference on World Wide Web, {WWW}
+  2010, Raleigh, North Carolina, USA, 2010: 811-820.
+\bibitem{DBLP:conf/ijcai/FengLZCCY15} Feng S, Li X, Zeng Y, et~al. Personalized
+  ranking metric embedding for next new {POI} recommendation[C]. Proceedings of
+  the Twenty-Fourth International Joint Conference on Artificial Intelligence,
+  {IJCAI} 2015, Buenos Aires, Argentina, 2015: 2069-2075.
+\bibitem{DBLP:conf/cikm/XieYWXCW16} Xie M, Yin H, Wang H, et~al. Learning
+  graph-based {POI} embedding for location-based recommendation[C]. Proceedings
+  of the 25th {ACM} International Conference on Information and Knowledge
+  Management, {CIKM} 2016, Indianapolis, IN, USA, 2016: 15-24.
+\bibitem{DBLP:journals/tkde/SongXWWZZ017} Song J, Xiao J, Wu F, et~al.
+  Hierarchical contextual attention recurrent neural network for map query
+  suggestion[J]. {IEEE} Transactions on Knowledge and Data Engineering, 2017,
+  29(9): 1888-1901.
+\bibitem{DBLP:conf/cikm/SordoniBVLSN15} Sordoni A, Bengio Y, Vahabi H, et~al. A
+  hierarchical recurrent encoder-decoder for generative context-aware query
+  suggestion[C]. Proceedings of the 24th {ACM} International Conference on
+  Information and Knowledge Management, {CIKM} 2015, Melbourne, VIC, Australia,
+  2015: 553-562.
+\bibitem{DBLP:conf/mm/WangW14} Wang X, Wang Y. Improving content-based and
+  hybrid music recommendation using deep learning[C]. Proceedings of the {ACM}
+  International Conference on Multimedia, {MM} '14, Orlando, FL, USA, 2014:
+  627-636.
+\bibitem{DBLP:conf/kdd/ZhangYLXM16} Zhang F, Yuan N J, Lian D, et~al.
+  Collaborative knowledge base embedding for recommender systems[C].
+  Proceedings of the 22nd {ACM} {SIGKDD} International Conference on Knowledge
+  Discovery and Data Mining, San Francisco, CA, USA, 2016: 353-362.
+\bibitem{DBLP:conf/www/HeLZNHC17} He X, Liao L, Zhang H, et~al. Neural
+  collaborative filtering[C]. Proceedings of the 26th International Conference
+  on World Wide Web, {WWW} 2017, Perth, Australia, 2017: 173-182.
+\bibitem{DBLP:journals/ijon/CuiWHW19} Cui Q, Wu S, Huang Y, et~al. A
+  hierarchical contextual attention-based network for sequential
+  recommendation[J]. Neurocomputing, 2019, 358: 141-149.
+\bibitem{DBLP:conf/interspeech/MikolovKBCK10} Mikolov T, Karafi{\'{a}}t M,
+  Burget L, et~al. Recurrent neural network based language model[C].
+  {INTERSPEECH} 2010, 11th Annual Conference of the International Speech
+  Communication Association, Makuhari, Chiba, Japan, 2010: 1045-1048.
+\bibitem{DBLP:journals/neco/HochreiterS97} Hochreiter S, Schmidhuber J. Long
+  short-term memory[J]. Neural Computation, 1997, 9(8): 1735-1780.
+\bibitem{DBLP:conf/emnlp/ChoMGBBSB14} Cho K, van Merrienboer B,
+  G{\"{u}}l{\c{c}}ehre {\c{C}}, et~al. Learning phrase representations using
+  {RNN} encoder-decoder for statistical machine translation[C]. Proceedings of
+  the 2014 Conference on Empirical Methods in Natural Language Processing,
+  {EMNLP} 2014, 2014: 1724-1734.
+\bibitem{DBLP:conf/aaai/SunQCLNY20} Sun K, Qian T, Chen T, et~al. Where to go
+  next: Modeling long- and short-term user preferences for point-of-interest
+  recommendation[C]. The Thirty-Fourth {AAAI} Conference on Artificial
+  Intelligence, {AAAI} 2020, New York, NY, USA, 2020: 214-221.
+\bibitem{DBLP:conf/ssci/Al-MolegiJG16} Al{-}Molegi A, Jabreel M, Ghaleb B.
+  {STF-RNN:} space time features-based recurrent neural network for predicting
+  people next location[C]. 2016 {IEEE} Symposium Series on Computational
+  Intelligence, {SSCI} 2016, Athens, Greece, 2016: 1-7.
+\bibitem{DBLP:conf/wsdm/KurashimaIHTF13} Kurashima T, Iwata T, Hoshide T,
+  et~al. Geo topic model: joint modeling of user's activity area and interests
+  for location recommendation[C]. Sixth {ACM} International Conference on Web
+  Search and Data Mining, {WSDM} 2013, Rome, Italy, 2013: 375-384.
+\bibitem{DBLP:conf/aaai/Liu0XYWS20} Liu Z, Miranda F, Xiong W, et~al. Learning
+  geo-contextual embeddings for commuting flow prediction[C]. The Thirty-Fourth
+  {AAAI} Conference on Artificial Intelligence, {AAAI} 2020, New York, USA,
+  2020: 808-816.
+\bibitem{DBLP:conf/www/FengLZSMGJ18} Feng J, Li Y, Zhang C, et~al. Deepmove:
+  Predicting human mobility with attentional recurrent networks[C]. Proceedings
+  of the 2018 World Wide Web Conference on World Wide Web, {WWW} 2018, Lyon,
+  France, 2018: 1459-1468.
+\bibitem{DBLP:conf/wsdm/TangW18} Tang J, Wang K. Personalized top-n sequential
+  recommendation via convolutional sequence embedding[C]. Proceedings of the
+  Eleventh {ACM} International Conference on Web Search and Data Mining, {WSDM}
+  2018, Marina Del Rey, CA, USA, 2018: 565-573.
+\bibitem{DBLP:conf/ijcai/Kong018} Kong D, Wu F. {HST-LSTM:} {A} hierarchical
+  spatial-temporal long-short term memory network for location prediction[C].
+  Proceedings of the Twenty-Seventh International Joint Conference on
+  Artificial Intelligence, {IJCAI} 2018, Stockholm, Sweden, 2018: 2341-2347.
+\bibitem{DBLP:conf/aaai/ZhaoZLXLZSZ19} Zhao P, Zhu H, Liu Y, et~al. Where to go
+  next: {A} spatio-temporal gated network for next {POI} recommendation[C]. The
+  Thirty-Third {AAAI} Conference on Artificial Intelligence, {AAAI} 2019,
+  Honolulu, Hawaii, USA, 2019: 5877-5884.
+\bibitem{DBLP:books/lib/HastieTF09} Hastie T, Tibshirani R, Friedman J H. The
+  elements of statistical learning: Data mining, inference, and prediction, 2nd
+  edition[M]. Springer, 2009\bibitem{DBLP:conf/acml/YangLCL19} Yang Y, Lin Y,
+  Chu H, et~al. Deep learning with a rethinking structure for multi-label
+  classification[C]. Proceedings of The 11th Asian Conference on Machine
+  Learning, {ACML} 2019, Nagoya, Japan, 2019: 125-140.
+\bibitem{DBLP:journals/prl/Fawcett06} Fawcett T. An introduction to {ROC}
+  analysis[J]. Pattern Recognition Letters, 2006, 27(8): 861-874.
+\bibitem{DBLP:conf/nips/KrizhevskySH12} Krizhevsky A, Sutskever I, Hinton G E.
+  Imagenet classification with deep convolutional neural networks[C]. Advances
+  in Neural Information Processing Systems 25: 26th Annual Conference on Neural
+  Information Processing Systems 2012. Lake Tahoe, Nevada, United States, 2012:
+  1106-1114.
+\bibitem{DBLP:journals/bigdata/TorresHSMT21} Torres J F, Hadjout D, Sebaa A,
+  et~al. Deep learning for time series forecasting: {A} survey[J]. Big Data,
+  2021, 9(1): 3-21.
+\bibitem{rosenblatt1958perceptron} Rosenblatt F. The perceptron: a
+  probabilistic model for information storage and organization in the
+  brain.[J]. Psychological review, 1958, 65(6): 386.
+\bibitem{DBLP:journals/tnn/BengioSF94} Bengio Y, Simard P Y, Frasconi P.
+  Learning long-term dependencies with gradient descent is difficult[J]. {IEEE}
+  Transactions on Neural Networks, 1994, 5(2): 157-166.
+\bibitem{DBLP:conf/wsdm/LiWM20} Li J, Wang Y, McAuley J J. Time interval aware
+  self-attention for sequential recommendation[C]. {WSDM} '20: The Thirteenth
+  {ACM} International Conference on Web Search and Data Mining, Houston, TX,
+  USA, 2020: 322-330.
+\bibitem{DBLP:conf/iclr/LiYS018} Li Y, Yu R, Shahabi C, et~al. Diffusion
+  convolutional recurrent neural network: Data-driven traffic forecasting[C].
+  6th International Conference on Learning Representations, {ICLR} 2018,
+  Vancouver, BC, Canada, 2018: 1-16.
+\bibitem{DBLP:journals/tits/ZhaoSZLWLDL20} Zhao L, Song Y, Zhang C, et~al.
+  {T-GCN:} {A} temporal graph convolutional network for traffic prediction[J].
+  {IEEE} Transactions on Intelligent Transportation Systems, 2020, 21(9):
+  3848-3858.
+\bibitem{DBLP:conf/ijcai/YuYZ18} Yu B, Yin H, Zhu Z. Spatio-temporal graph
+  convolutional networks: {A} deep learning framework for traffic
+  forecasting[C]. Proceedings of the Twenty-Seventh International Joint
+  Conference on Artificial Intelligence, {IJCAI} 2018, Stockholm, Sweden, 2018:
+  3634-3640.
+\bibitem{DBLP:conf/sigir/LinNWL18} Lin X, Niu S, Wang Y, et~al. K-plet
+  recurrent neural networks for sequential recommendation[C]. The 41st
+  International {ACM} {SIGIR} Conference on Research {\&} Development in
+  Information Retrieval, {SIGIR} 2018, Ann Arbor, MI, USA, 2018: 1057-1060.
+\bibitem{DBLP:conf/icwsm/RuizQBF15} Ruiz C K V, Quercia D, Bonchi F, et~al.
+  Taxonomy-based discovery and annotation of functional areas in the city[C].
+  Proceedings of the Ninth International Conference on Web and Social Media,
+  {ICWSM} 2015, University of Oxford, Oxford, UK, 2015: 445-453.
+\bibitem{DBLP:journals/tkde/YuanZXWZX15} Yuan N J, Zheng Y, Xie X, et~al.
+  Discovering urban functional zonesusing latent activity trajectories[J].
+  {IEEE} Transactions on Knowledge and Data Engineering, 2015, 27(3): 712-725.
+\bibitem{sekimoto2011pflow} Sekimoto Y, Shibasaki R, Kanasugi H, et~al. Pflow:
+  Reconstructing people flow recycling large-scale social survey data[J]. IEEE
+  Pervasive Computing, 2011, 10(4): 27-35.
+\bibitem{hilbert1902mathematical} Hilbert D. Mathematical problems[J]. Bulletin
+  of the American Mathematical Society, 1902, 8(10): 437-479.
+\bibitem{DBLP:conf/icip/KamataB97} Kamata S, Bandoh Y. An address generator of
+  a pseudo-hilbert scan in a rectangle region[C]. Proceedings 1997
+  International Conference on Image Processing, {ICIP} '97, Santa Barbara,
+  California, USA, 1997: 707-710.
+\bibitem{DBLP:journals/tip/KamataEB99} Kamata S, Eason R O, Bandoh Y. A new
+  algorithm for n-dimensional hilbert scanning[J]. {IEEE} Transactions on Image
+  Processing, 1999, 8(7): 964-973.
+\bibitem{DBLP:conf/iwicpas/ZhangKU06} Zhang J, Kamata S, Ueshige Y. A
+  pseudo-hilbert scan algorithm for arbitrarily-sized rectangle region[C].
+  International Workshop on Intelligent Computing in Pattern
+  Analysis/Synthesis, {IWICPAS} 2006, Xi'an, China, 2006: 290-299.
+\bibitem{DBLP:conf/kdd/Wang0SCJSC20} Wang D, Jiang M, Syed M, et~al. Calendar
+  graph neural networks for modeling time structures in spatiotemporal user
+  behaviors[C]. {KDD} '20: The 26th {ACM} {SIGKDD} Conference on Knowledge
+  Discovery and Data Mining, Virtual Event, CA, USA, 2020: 2581-2589.
+\bibitem{DBLP:journals/cor/BoyaciDL21} Boyaci B, Dang T H, Letchford A N.
+  Vehicle routing on road networks: How good is euclidean approximation?[J].
+  Computers {\&} Operations Research, 2021, 129: 105197.
+\bibitem{DBLP:conf/iconip/OwakiM20} Owaki T, Machida T. Roadnetgan: Generating
+  road networks in planar graph representation[C]. Neural Information
+  Processing - 27th International Conference, {ICONIP} 2020, Bangkok, Thailand,
+  2020: 535-543.
+\bibitem{DBLP:journals/ijgi/LinB17} Lin J, Ban Y. Comparative analysis on
+  topological structures of urban street networks[J]. {ISPRS} International
+  Journal of Geo-Information, 2017, 6(10): 295.
+\bibitem{DBLP:journals/lgrs/YangZW22} Yang L, Zhai J, Wang X. A graph-cut-based
+  method for road labels making with {OSM} data[J]. {IEEE} Geoscience and
+  Remote Sensing Letters, 2022, 19: 1-5.
+\bibitem{DBLP:conf/icml/NiepertAK16} Niepert M, Ahmed M, Kutzkov K. Learning
+  convolutional neural networks for graphs[C]. Proceedings of the 33nd
+  International Conference on Machine Learning, {ICML} 2016, New York City, NY,
+  USA, 2016: 2014-2023.
+\bibitem{DBLP:conf/nips/DefferrardBV16} Defferrard M, Bresson X, Vandergheynst
+  P. Convolutional neural networks on graphs with fast localized spectral
+  filtering[C]. Advances in Neural Information Processing Systems 29: Annual
+  Conference on Neural Information Processing Systems 2016, Barcelona, Spain,
+  2016: 3837-3845.
+\bibitem{DBLP:journals/spm/ShumanNFOV13} Shuman D I, Narang S K, Frossard P,
+  et~al. The emerging field of signal processing on graphs: Extending
+  high-dimensional data analysis to networks and other irregular domains[J].
+  {IEEE} Signal Processing Magazine, 2013, 30(3): 83-98.
+\bibitem{DBLP:conf/iclr/KipfW17} Kipf T N, Welling M. Semi-supervised
+  classification with graph convolutional networks[C]. 5th International
+  Conference on Learning Representations, {ICLR} 2017, Toulon, France, 2017:
+  1-14.
+\bibitem{hammond2011wavelets} Hammond D K, Vandergheynst P, Gribonval R.
+  Wavelets on graphs via spectral graph theory[J]. Applied and Computational
+  Harmonic Analysis, 2011, 30(2): 129-150.
+\end{thebibliography}

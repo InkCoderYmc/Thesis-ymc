@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: accomplish.aux
+The style file: thesis-uestc.bst
+if is an illegal style-file command---line 396 of file thesis-uestc.bst
+ :     } if
+ :         $
+Database file #1: publications.bib
+You've used 6 entries,
+            954 wiz_defined-function locations,
+            283 strings with 2331 characters,
+and the built_in function-call counts, 306 in all, are:
+= -- 16
+> -- 15
+< -- 0
++ -- 9
+- -- 4
+* -- 29
+:= -- 39
+add.period$ -- 0
+call.type$ -- 6
+change.case$ -- 1
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 16
+empty$ -- 15
+format.name$ -- 5
+if$ -- 49
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 8
+newline$ -- 10
+num.names$ -- 1
+pop$ -- 7
+preamble$ -- 0
+purify$ -- 0
+quote$ -- 0
+skip$ -- 5
+stack$ -- 0
+substring$ -- 26
+swap$ -- 8
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 5
+width$ -- 0
+write$ -- 26
+(There was 1 error message)

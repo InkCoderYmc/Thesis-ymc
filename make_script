@@ -1,0 +1,7 @@
+#!/bin/bash
+latexmk -c
+xelatex --shell-escape main.tex
+bibtex main.aux
+bibtex accomplish.aux
+xelatex --shell-escape main.tex
+xelatex --shell-escape main.tex
